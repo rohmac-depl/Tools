@@ -4,5 +4,4 @@ json
 base64
 io
 pypdf
-# Füge PyMuPDF hinzu, wenn du es brauchst:
 PyMuPDF
