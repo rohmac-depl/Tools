@@ -1,6 +1,4 @@
 streamlit
 requests
-base64
-io
 pypdf
-fitz
+PyMuPDF
