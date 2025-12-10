@@ -4,4 +4,4 @@ json
 base64
 io
 pypdf
-PyMuPDF
+fitz
